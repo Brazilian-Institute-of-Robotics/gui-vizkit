@@ -2,6 +2,7 @@
 
 require 'vizkit'
 require 'transformer'
+require 'optparse'
 
 # Edition class for joint values (when loading SDF)
 class JointEditor < Qt::Widget
